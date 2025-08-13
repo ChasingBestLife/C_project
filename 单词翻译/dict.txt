@@ -1,0 +1,8 @@
+a
+Trans:art. 一；字母A 
+#a/c
+Trans:n. 往来账户@往来:come - and - go; contact;
+#你好
+Trans:Hello
+#世界
+Trans:World
