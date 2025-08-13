@@ -1,0 +1,3 @@
+﻿  浮点型.cpp
+C:\Users\人情世故\Desktop\c语言学习\第一章C语言基础语法\C语言02：变量和数据类型\C语言02：变量和数据类型\浮点型.cpp(7,24): warning C4305: “初始化”: 从“double”到“float”截断
+  C语言02：变量和数据类型.vcxproj -> C:\Users\人情世故\Desktop\c语言学习\第一章C语言基础语法\C语言02：变量和数据类型\x64\Debug\C语言02：变量和数据类型.exe
