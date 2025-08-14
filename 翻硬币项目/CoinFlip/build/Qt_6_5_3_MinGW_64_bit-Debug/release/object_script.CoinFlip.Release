@@ -1,0 +1,16 @@
+release/coinbutton.o
+release/dataconfig.o
+release/main.o
+release/mainwindow.o
+release/mypushbutton.o
+release/playscene.o
+release/selectscene.o
+release/startscene.o
+release/qrc_res.o
+release/moc_coinbutton.o
+release/moc_dataconfig.o
+release/moc_mainwindow.o
+release/moc_mypushbutton.o
+release/moc_playscene.o
+release/moc_selectscene.o
+release/moc_startscene.o
