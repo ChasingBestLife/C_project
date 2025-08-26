@@ -1,1 +1,0 @@
-﻿D:\Program Files\Microsoft Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(382,5): error MSB3491: 未能向文件“x64\Debug\单词翻译.tlog\单词翻译.lastbuildstate”写入行。文件“E:\阿里云盘\localFile\ABL\3.学习总\1.语言基础\1.C语言基础语法_fited\项目实战\单词翻译\单词翻译\x64\Debug\单词翻译.tlog\单词翻译.lastbuildstate”正由另一进程使用，因此该进程无法访问此文件。 
